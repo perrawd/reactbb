@@ -4,9 +4,9 @@ A modern web forum platform built with the MERN stack and GraphQL.
 ## ⛩️ Dependencies
 The application consists of the following services: 
 - [Front-end service](https://github.com/perrawd/reactbb-frontend-service)
-- [GraphQL Apollo Federation service (API gateway)](https://github.com/perrawd/reactBB-auth-service)
-- [Resource service](https://github.com/perrawd/reactBB-auth-service)
-- [Authentification service](https://github.com/perrawd/reactbb-graphql-service)
+- [GraphQL Apollo Federation service (API gateway)](https://github.com/perrawd/reactBB-graphql-service)
+- [Resource service](https://github.com/perrawd/reactBB-resource-service)
+- [Authentification service](https://github.com/perrawd/reactbb-auth-service)
 
 ## ⭐ Features
 - List topic categories and sub-categories
