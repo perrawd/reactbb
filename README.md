@@ -1,6 +1,13 @@
 # reactBB
 A modern web forum platform built with the MERN stack and GraphQL. 
 
+## ⛩️ Dependencies
+The application consists of the following services: 
+- [Front-end service](https://github.com/perrawd/reactbb-frontend-service)
+- [GraphQL Apollo Federation service (API gateway)](https://github.com/perrawd/reactBB-auth-service)
+- [Resource service](https://github.com/perrawd/reactBB-auth-service)
+- [Authentification service](https://github.com/perrawd/reactbb-graphql-service)
+
 ## ⭐ Features
 - List topic categories and sub-categories
 - List threads belonging to a sub-category
@@ -16,19 +23,13 @@ A modern web forum platform built with the MERN stack and GraphQL.
 - Moderators can add, edit and delete all threads
 - Moderators can add, edit and delete all posts
 
-## ⛩️ Dependencies
-The application consists of the following services: 
-- [Front-end service](https://gitlab.lnu.se/1dv613/student/pr222iw/projects/reactbb-frontend-service)
-- [GraphQL Apollo Federation service (API gateway)](https://gitlab.lnu.se/1dv613/student/pr222iw/projects/reactbb-graphql-service)
-- [Resource service](https://gitlab.lnu.se/1dv613/student/pr222iw/projects/reactbb-resource-service)
-- [Authentification service](https://gitlab.lnu.se/1dv613/student/pr222iw/projects/reactbb-auth-service)
-
 ## 🚀 Technologies
 - React
 - MongoDB
 - Express
-- Node
-- GraphQL Apollo client
+- Node.js
+- Redis
+- GraphQL
 - Semantic UI
 
 ## 🛣️ Roadmap
@@ -42,7 +43,7 @@ The application consists of the following services:
 - Proper text formatting in posts
 - SuperUser access
 
-Parts of this application is inspired by the following projects/tutorials:
+Parts of this application is inspired by the following projects:
 - GraphQL official documentation
 - https://github.com/hidjou/classsed-graphql-mern-apollo/tree/master/client/src
 - https://github.com/henrispkl/MernBB
