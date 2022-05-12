@@ -8,6 +8,10 @@ The application consists of the following services:
 - [Resource service](https://github.com/perrawd/reactBB-resource-service)
 - [Authentification service](https://github.com/perrawd/reactbb-auth-service)
 
+The application is built with a micro-service infrastructure:
+![Architecture](architecture.png)
+
+
 ## ⭐ Features
 - List topic categories and sub-categories
 - List threads belonging to a sub-category
