@@ -1,6 +1,8 @@
 # reactBB
 A modern web forum platform built with the MERN stack and GraphQL. 
 
+[Demo](https://rawdin.se/reactbb/)
+
 ## ⛩️ Dependencies
 The application consists of the following services: 
 - [Front-end service](https://github.com/perrawd/reactbb-frontend-service)
